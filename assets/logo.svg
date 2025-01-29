@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffe0cc;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <!-- Logo shadow -->
+    <text x="102" y="37" font-family="Arial" font-size="30" font-weight="bold" fill="rgba(0,0,0,0.2)" text-anchor="middle">TRENDYOL</text>
+    <!-- Main logo text -->
+    <text x="100" y="35" font-family="Arial" font-size="30" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">TRENDYOL</text>
+</svg> 
